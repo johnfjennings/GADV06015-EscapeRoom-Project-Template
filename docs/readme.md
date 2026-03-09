@@ -1,0 +1,1 @@
+Use this folder to contain all your project documentation, e.g. Design Document, Moodboard, Persona, Presentations etc. 
